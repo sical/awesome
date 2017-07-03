@@ -10,7 +10,7 @@ Awesome lists : concepts, methods, tools etc.
 
 ## Resources
 # Useful links
-- [Philip Guo how to write CHI research papper](http://www.pgbovine.net/how-to-write-hci-research-paper.htm(
+- [Philip Guo how to write CHI research papper](http://www.pgbovine.net/how-to-write-hci-research-paper.htm)
 - [Andrew J. Ko How do I write a good research paper](https://faculty.washington.edu/ajko/advice#goodpaper)
 - [Jacob O. Wobbrock An HCI research paper writing guide formatted as an HCI paper](http://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf)
 
